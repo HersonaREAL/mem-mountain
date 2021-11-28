@@ -1,3 +1,6 @@
+run:
+  bash run.sh
+
 This directory contains code for generating a memory mountain, as
 described in Computer Systems: A Programmer's Perspective 
 
